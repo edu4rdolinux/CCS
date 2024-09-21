@@ -5,7 +5,7 @@ export default function NeoLiberalismText() {
           before:absolute before:inset-0 before:animate-typewriter before:bg-white
           after:absolute after:inset-0 after:w-[0.04em] after:h-[1.5em] after:top-1/2 after:translate-y-[-50%] after:animate-caret after:bg-black"
         >
-          Neoliberalism is Wonderful!
+          Neoliaberalism is Wonderful!
         </h1>
       </div>
     );
