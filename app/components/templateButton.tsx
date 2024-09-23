@@ -1,7 +1,7 @@
 "use client"; // Marcar o componente como Client Component
 
 function actionButton() {
-    window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank"); // Abre em uma nova aba
+    window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank");
 }
 
 type TemplateButtonProps = {
