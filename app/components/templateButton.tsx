@@ -10,7 +10,7 @@ type TemplateButtonProps = {
 
 export default function TemplateButton({ TextButton }: TemplateButtonProps) {
     return (
-        <button onClick={actionButton} className="bg-gray-950 text-slate-100 w-32 h-12">
+        <button onClick={actionButton} className="bg-gray-950 border-4 text-slate-100 w-32 h-12 duration-300 hover:bg-slate-100 hover:border-gray-950 hover:text-slate-950">
             {TextButton} Share
         </button>
     );
