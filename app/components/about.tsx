@@ -9,15 +9,15 @@ Vision and Values
 Our commitment to excellence is guided by core values of integrity, transparency, and social responsibility. We operate with a long-term investment approach, prioritizing projects that not only generate financial returns but also contribute to the well-being of society and the environment.
 <br/>
 Our Projects
-
+<br/>
 Over the years, Celestial Group has been a pioneer in various initiatives, including the creation of technology parks, development of green infrastructure, and financing research in clean energy. With a team of highly qualified experts, we are at the forefront of innovations shaping the future of the global economy.
 <br/>
 Commitment to Sustainability
-
+<br/>
 We believe that success should not be measured solely in financial terms. Our focus on sustainability is reflected in each of our projects, ensuring that our operations respect the environment and promote social justice.
 <br/>
 Global Connections
-
+<br/>
 With a strong network of international partnerships, Capitalist China Society connects with market leaders and financial institutions around the world. This collaboration allows us to access exclusive opportunities and share knowledge, amplifying our positive impact.
 <br/>
 Join Us
