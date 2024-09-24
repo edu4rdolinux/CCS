@@ -21,7 +21,7 @@ Global Connections
 With a strong network of international partnerships, Capitalist China Society connects with market leaders and financial institutions around the world. This collaboration allows us to access exclusive opportunities and share knowledge, amplifying our positive impact.
 <br/>
 Join Us
-
+<br/>
 If you share our vision of a more sustainable and innovative future, we invite you to join our movement. At Capitalist China Society, we are shaping tomorrow — together.
             
             </p> 
