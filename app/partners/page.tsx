@@ -6,7 +6,7 @@ export default function Partners() {
     return (
         <div>
             <Header/>
-            <div className="flex flex-col items-center m-16">
+            <div className="flex flex-col flex-wrap items-center m-16">
                 <MainText Text="Partners"/>
                 <div className="flex flex-wrap flex-row items-center gap-x-20 ease-in duration-300">
                     <Partner Alt="Aramco Logo" ImageUrl="/200513-aramco-logomarca.jpg"/>
